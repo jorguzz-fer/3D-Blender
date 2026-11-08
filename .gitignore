@@ -1,0 +1,4 @@
+input/*.glb
+input/*.zip
+__pycache__/
+*.blend1
